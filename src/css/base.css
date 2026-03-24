@@ -13,7 +13,7 @@ section {
 .task-list-item {
   display: flex;
   width: calc((100% - 15px) / 2);
-  background-color: #fdfdfd;
+  background-color: #32becb;
   border: 1px solid #00f;
   border-radius: 8px;
   flex-direction: column;
